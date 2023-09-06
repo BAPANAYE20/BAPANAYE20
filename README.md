@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bapanye Bernard</h1>
 <h3 align="center">A passionate whole stack developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bapanaye20&label=Profile%20views&color=0e75b6&style=flat" alt="bapanaye20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bapanaye20" alt="bapanaye20" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kobbina_bapa" target="blank"><img src="https://img.shields.io/twitter/follow/kobbina_bapa?logo=twitter&style=for-the-badge" alt="kobbina_bapa" /></a> </p>
-
 - 🌱 I’m currently learning **Backend development with Holberton School San Francisco, United States of America**
 
 - 👨‍💻 All of my projects are available at [bapanaye.online](bapanaye.online)
@@ -14,6 +7,15 @@
 - 💬 Ask me about **JavaScript, C, C#, Python and other backend technologies**
 
 - 📫 How to reach me **bapanaye2019@outlook.com**
+
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bapanaye20&label=Profile%20views&color=0e75b6&style=flat" alt="bapanaye20" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bapanaye20" alt="bapanaye20" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kobbina_bapa" target="blank"><img src="https://img.shields.io/twitter/follow/kobbina_bapa?logo=twitter&style=for-the-badge" alt="kobbina_bapa" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
