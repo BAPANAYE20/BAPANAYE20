@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bapanyae Bernard</h1>
+<h1 align="center">Hi 👋, I'm Bapanaye Bernard</h1>
 <h3 align="center">A passionate whole stack developer.</h3>
 - 🌱 I’m currently learning **Backend development with Holberton School San Francisco, United States of America**
 
